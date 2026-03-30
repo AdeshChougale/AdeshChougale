@@ -1,15 +1,13 @@
 name: GitHub Readme Stats
 on:
   schedule:
-    - cron: '0 */12 * * *' # Updates every 12 hours
-  workflow_dispatch: # Allows manual run
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Stats Images
-        uses: anuraghazra/github-readme-stats@master
+      - uses: actions/checkout@v3
+      - uses: teoxoy/profile-readme-stats@v2
         with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
-          show_icons: true
-          theme: radical
+          token: ${{ secrets.GITHUB_TOKEN }}
