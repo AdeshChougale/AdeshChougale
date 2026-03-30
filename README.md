@@ -42,8 +42,8 @@ Processed an ETL pipeline of **10 million+ rows** using **PySpark**.
 ---
 
 ### 📈 My GitHub Stats
-![Adesh's GitHub stats](https://github.com/AdeshChougale/AdeshChougale/blob/master/github-readme-stats.svg)
-![Top Langs](https://github.com/AdeshChougale/AdeshChougale/blob/master/top-langs.svg)
+![Adesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeshChougale&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeshChougale&layout=compact&theme=radical)
 
 ---
 
