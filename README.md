@@ -40,11 +40,11 @@ Processed an ETL pipeline of **10 million+ rows** using **PySpark**.
 - Developed BI visualizations using Matplotlib and Seaborn.
 
 ---
-
+<!--
 ### 📈 My GitHub Stats
 ![Adesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeshChougale&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeshChougale&layout=compact&theme=radical)
-
+-->
 ---
 
 ### 📫 Let's Connect!
