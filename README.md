@@ -41,12 +41,15 @@ Processed an ETL pipeline of **10 million+ rows** using **PySpark**.
 
 ---
 
+### 📈 My GitHub Stats
+![Adesh's GitHub stats](https://github.com/AdeshChougale/AdeshChougale/blob/master/github-readme-stats.svg)
+![Top Langs](https://github.com/AdeshChougale/AdeshChougale/blob/master/top-langs.svg)
+
+---
+
 ### 📫 Let's Connect!
-- 💼 **LinkedIn**: [linkedin.com/in/adeshchougale](www.linkedin.com/in/adesh-chougale)
-- 📧 **Email**: chougaleadesh5075@gmail.com
-- 🌐 **Portfolio**: [Portfolio Site]([INSERT_LINK_HERE](https://portfolio-adesh-xi.vercel.app/##))
+- 💼 **LinkedIn**: [linkedin.com/in/adesh-chougale](https://www.linkedin.com/in/adesh-chougale)
+- 📧 **Email**: [chougaleadesh5075@gmail.com](mailto:chougaleadesh5075@gmail.com)
+- 🌐 **Portfolio**: [Visit My Portfolio](https://portfolio-adesh-xi.vercel.app/)
 
 *"Combining the discipline of an NCC cadet with the precision of a Statistician to write better code."*
-
-
-
